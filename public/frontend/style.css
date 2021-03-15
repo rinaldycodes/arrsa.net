@@ -1,0 +1,17 @@
+body {
+    background-color: #ffefef !important;
+}
+section {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.bg-custom {
+    background-color: #a6a6a6 !important;
+}
+
+#post img {
+    height: 200px;
+    width: 100%;
+    object-fit: contain;
+}
